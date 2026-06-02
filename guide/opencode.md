@@ -16,10 +16,10 @@ OpenCode 是一个开源代理，帮助您使用任意 AI 模型编写和运行�
 1.在令牌管理界面创建令牌后，复制apikey。
 ![alt text](../images/05.png)
 2. 找到 OpenCode 的配置文件 `opencode.json` 或 `opencode.jsonc`。
-   常见路径如下：
-   `~/.config/opencode/opencode.json`（Linux/macOS）
-   `用户名\.config\opencode\opencode.json`（Windows）
-   如果文件或文件夹不存在，请手动创建，然后粘贴下方代码，并将 `apikey` 替换为你自己的密钥。
+常见路径如下：
+`~/.config/opencode/opencode.json`（Linux/macOS）
+`用户名\.config\opencode\opencode.json`（Windows）
+如果文件或文件夹不存在，请手动创建，然后粘贴下方代码，并将 `apikey` 替换为你自己的密钥。
 
 ```yaml
 {
@@ -72,5 +72,7 @@ OpenCode 是一个开源代理，帮助您使用任意 AI 模型编写和运行�
 ```
 
 4.保存后重新打开opencode，既可开始使用AI。
+
 ![alt text](../images/14.png)
 ![alt text](../images/15.png)
+

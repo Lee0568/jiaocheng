@@ -34,6 +34,25 @@
 此界面可以利用AI生成论文大纲、章节，还可以对论文进行降重，并生成答辩预测。
 ![alt text](../images/08.png)
 
+## AI PPT生成器
+
+此界面可以利用AI生成ppt，依次填入
+![alt text](../images/20.png)
+![alt text](../images/21.png)
+![alt text](../images/22.png)
+
+## AI简历助手
+
+此界面可以利用AI生成、优化简历。填入简历的基础信息后。
+![alt text](../images/24.png)
+再将需要面试的岗位和岗位需求填入，点击生成简历。
+![alt text](../images/23.png)
+生成之后，还可以对具体的模块进行修改。
+![alt text](../images/25.png)
+![alt text](../images/26.png)
+修改完后，可以调整排版，或者导出为Word或PDF。
+![alt text](../images/27.png)
+
 ## 钱包管理
 
 此界面可以充值和查看邀请奖励。
