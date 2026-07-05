@@ -2,7 +2,7 @@
 
 OpenClaw是一个开源的AI自动化代理，可本地部署以执行文件操作、浏览器自动化等任务。
 
-官网：[OpenCode](https://openclaw.ai/)
+官网：[OpenClaw](https://openclaw.ai/)
 cc-switch下载地址：[github]([https://openclaw.ai/](https://github.com/farion1231/cc-switch/releases/download/v3.16.1/CC-Switch-v3.16.1-Windows-Portable.zip))
 
 ## 下载地址

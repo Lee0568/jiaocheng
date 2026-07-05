@@ -3,7 +3,7 @@
 开源、自托管的AI AGENT。
 Hermes Agent可以运行在本地电脑、VPS、Docker、SSH或云端开发环境中，不依赖单一IDE，也不把你的工作流锁在网页聊天框里。
 
-官网：[OpenCode](https://opencode.ai/zh)
+官网：[Hermes](https://opencode.ai/zh)
 
 ## 下载地址
 
