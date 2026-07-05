@@ -42,7 +42,7 @@
 
 ## 🧠 Step 3. 选择与测试模型
 
-我们提供丰富的模型矩阵供您调用，完整列表请查阅 🛒 **[模型广场](https://unslink.cc/pricing)**。
+我们提供丰富的模型矩阵供您调用，完整列表请查阅 🛒 **[模型广场](https://unslink.cc/pricing)** 。
 
 ### 🛠️ 接入配置示例
 
@@ -63,8 +63,4 @@
 
 ---
 
-<div align="center" style="margin-top:40px; color:#94a3b8; font-size:14px;">
-  <i>Uns-Link 致力于为您提供极简的开发体验。遇到问题？请随时联系我们的技术支持。</i>
-</div>
-```
 
